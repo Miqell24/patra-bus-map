@@ -1,0 +1,1552 @@
+{
+  "generatedAt": "2026-09-11T15:01:06.495Z",
+  "bbox": [
+    21.6312,
+    38.154052,
+    21.835335,
+    38.297768
+  ],
+  "badgeBands": [
+    [
+      13,
+      13.6
+    ],
+    [
+      13.6,
+      14.4
+    ],
+    [
+      14.4,
+      15.5
+    ],
+    [
+      15.5,
+      16.8
+    ],
+    [
+      16.8,
+      22
+    ]
+  ],
+  "modes": [
+    {
+      "mode": "bus",
+      "label": "buses",
+      "color": "#0059a9"
+    }
+  ],
+  "lines": [
+    {
+      "line": "101",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Νεκροταφείο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 48,
+          "lengthKm": 11.99,
+          "stats": {
+            "observations": 569,
+            "matched": 562,
+            "noCandidates": 7,
+            "viterbiBreaks": 3,
+            "bridged": 0,
+            "rawStretchCount": 4,
+            "rawMeters": 216,
+            "meanError": 2.353363323884399,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Νεκροταφείο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 48,
+          "lengthKm": 10.9,
+          "stats": {
+            "observations": 532,
+            "matched": 532,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9236405027648411,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "102",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Τέρμα Διάκου",
+          "headsign": "Τέρμα Διάκου",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 44,
+          "lengthKm": 10.65,
+          "stats": {
+            "observations": 519,
+            "matched": 519,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8142033249816225,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Τέρμα Διάκου",
+          "headsign": "Τέρμα Διάκου",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 49,
+          "lengthKm": 12.59,
+          "stats": {
+            "observations": 616,
+            "matched": 616,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8942399456031301,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "103",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Ελεκιστρα",
+          "headsign": "Ελεκιστρα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 49,
+          "lengthKm": 15.79,
+          "stats": {
+            "observations": 374,
+            "matched": 374,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.275161141595359,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "104",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Τέρμα_ΠΛΑΖ",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 39,
+          "lengthKm": 10.18,
+          "stats": {
+            "observations": 511,
+            "matched": 511,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7116829243235849,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Τέρμα_ΠΛΑΖ",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 37,
+          "lengthKm": 9.43,
+          "stats": {
+            "observations": 441,
+            "matched": 441,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5031790886351697,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Τέρμα_ΠΛΑΖ",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 49,
+          "lengthKm": 15.7,
+          "stats": {
+            "observations": 753,
+            "matched": 753,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4678147692563515,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "111",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PARKING 11",
+          "headsign": "PARKING 11",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 13,
+          "lengthKm": 4.91,
+          "stats": {
+            "observations": 213,
+            "matched": 213,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.140045201361433,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "118",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Σταθμός Υπεραστικών",
+          "headsign": "Σταθμός Υπεραστικών",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 9,
+          "lengthKm": 5,
+          "stats": {
+            "observations": 185,
+            "matched": 185,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1702179427087147,
+            "roundaboutSegs": 3,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "201",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Αφετηρία Ταραμπούρα (ΤΕΙ)",
+          "headsign": "Αφετηρία Ταραμπούρα (ΤΕΙ)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 37,
+          "lengthKm": 9.3,
+          "stats": {
+            "observations": 436,
+            "matched": 436,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9682988139400266,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "202",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Τέρμα Αρέθα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 41,
+          "lengthKm": 9.54,
+          "stats": {
+            "observations": 479,
+            "matched": 479,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5921854044841047,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Ι.Ν. Ευαγγελίστριας",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 45,
+          "lengthKm": 14.66,
+          "stats": {
+            "observations": 355,
+            "matched": 355,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.767159737272893,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "301",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Αφετηρία Ζαρουχλέικα",
+          "headsign": "Αφετηρία Ζαρουχλέικα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 35,
+          "lengthKm": 8.17,
+          "stats": {
+            "observations": 410,
+            "matched": 410,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7030541843147551,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "302",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Αφετηρία Ζαρουχλέικα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 16,
+          "lengthKm": 6.24,
+          "stats": {
+            "observations": 314,
+            "matched": 314,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9773394543045725,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Αφετηρία Ζαρουχλέικα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 51,
+          "lengthKm": 15.47,
+          "stats": {
+            "observations": 433,
+            "matched": 433,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.686654320665314,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Αφετηρία Ζαρουχλέικα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 33,
+          "lengthKm": 8.18,
+          "stats": {
+            "observations": 410,
+            "matched": 410,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.803824980637891,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "303",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Τέρμα - Θερμοπυλών",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 35,
+          "lengthKm": 8.45,
+          "stats": {
+            "observations": 424,
+            "matched": 424,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.43838632948750256,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Πλάζ 4",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 36,
+          "lengthKm": 11.62,
+          "stats": {
+            "observations": 567,
+            "matched": 567,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8175626865599972,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Τυρταίου",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 34,
+          "lengthKm": 9.16,
+          "stats": {
+            "observations": 345,
+            "matched": 345,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.892900320544407,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "401",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Τέρμα Αρόης",
+          "headsign": "Τέρμα Αρόης",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 15,
+          "lengthKm": 3.6,
+          "stats": {
+            "observations": 181,
+            "matched": 181,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.12857953188526472,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "402",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Κολοκοτρώνη - Αφετηρία 4",
+          "headsign": "Κολοκοτρώνη - Αφετηρία 4",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 16,
+          "lengthKm": 3.48,
+          "stats": {
+            "observations": 175,
+            "matched": 175,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.19645399518223539,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "501",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Τέρμα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 52,
+          "lengthKm": 15.99,
+          "stats": {
+            "observations": 800,
+            "matched": 800,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.2517718421999211,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Τέρμα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 47,
+          "lengthKm": 15.59,
+          "stats": {
+            "observations": 780,
+            "matched": 780,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7655315633837929,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "502",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Αγ. Διονύσιος - Επίκεντρο",
+          "headsign": "Αγ. Διονύσιος - Επίκεντρο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 67,
+          "lengthKm": 20.36,
+          "stats": {
+            "observations": 1020,
+            "matched": 1020,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.1246045344360816,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Αγ. Διονύσιος - Επίκεντρο",
+          "headsign": "Αγ. Διονύσιος - Επίκεντρο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 65,
+          "lengthKm": 20.81,
+          "stats": {
+            "observations": 1042,
+            "matched": 1042,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.11396764543393761,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Αγ. Διονύσιος - Επίκεντρο",
+          "headsign": "Αγ. Διονύσιος - Επίκεντρο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 69,
+          "lengthKm": 22.13,
+          "stats": {
+            "observations": 1108,
+            "matched": 1108,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.14660300532198287,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "503",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Αγ. Διονύσιος - Επίκεντρο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 57,
+          "lengthKm": 16.29,
+          "stats": {
+            "observations": 816,
+            "matched": 816,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.21930323481907477,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Αγ. Διονύσιος - Επίκεντρο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 52,
+          "lengthKm": 15.92,
+          "stats": {
+            "observations": 581,
+            "matched": 581,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.723198493175951,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Αφετηρία Ταραμπούρα (ΤΕΙ)",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 41,
+          "lengthKm": 13.62,
+          "stats": {
+            "observations": 307,
+            "matched": 307,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.484277908032999,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "601",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Πανεπιστημιακό Νοσοκομείο Πατρών",
+          "headsign": "Πανεπιστημιακό Νοσοκομείο Πατρών",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 32,
+          "lengthKm": 8.8,
+          "stats": {
+            "observations": 425,
+            "matched": 425,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.28248106306972715,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Πανεπιστημιακό Νοσοκομείο Πατρών",
+          "headsign": "Πανεπιστημιακό Νοσοκομείο Πατρών",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 32,
+          "lengthKm": 8.79,
+          "stats": {
+            "observations": 425,
+            "matched": 425,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.11901176588970176,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Τέρμα Νοσοκομείο",
+          "headsign": "Τέρμα Νοσοκομείο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 32,
+          "lengthKm": 8.79,
+          "stats": {
+            "observations": 425,
+            "matched": 425,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.11901176588970176,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "602",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Τέρμα Νοσοκομείο",
+          "headsign": "Τέρμα Νοσοκομείο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 22,
+          "lengthKm": 10.15,
+          "stats": {
+            "observations": 493,
+            "matched": 493,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.39955117440223964,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "606",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Νόρμαν",
+          "headsign": "Νόρμαν",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 51,
+          "lengthKm": 16.52,
+          "stats": {
+            "observations": 814,
+            "matched": 813,
+            "noCandidates": 1,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 37,
+            "meanError": 2.144723672473654,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "607",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Μάρκου Μπότσαρη",
+          "headsign": "Μάρκου Μπότσαρη",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 25,
+          "lengthKm": 7.15,
+          "stats": {
+            "observations": 358,
+            "matched": 358,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.3750871473497567,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "608",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Καστρίτσι - Τέρμα",
+          "headsign": "Καστρίτσι - Τέρμα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 37,
+          "lengthKm": 15.67,
+          "stats": {
+            "observations": 693,
+            "matched": 693,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4199475257019043,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "609",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ερμού",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 32,
+          "lengthKm": 10.64,
+          "stats": {
+            "observations": 533,
+            "matched": 533,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.3176668613782995,
+            "roundaboutSegs": 64,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Αφετηρία Οθ. Αμαλίας & Καρολου",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 37,
+          "lengthKm": 15.31,
+          "stats": {
+            "observations": 729,
+            "matched": 729,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5893910047660482,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Αφετηρία Οθ. Αμαλίας & Καρολου",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 19,
+          "lengthKm": 6.99,
+          "stats": {
+            "observations": 350,
+            "matched": 350,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.176084939671561,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "610",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Αρχιεπισκόπου Κυρίλλου Τέρμα",
+          "headsign": "Αρχιεπισκόπου Κυρίλλου Τέρμα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 27,
+          "lengthKm": 11.88,
+          "stats": {
+            "observations": 560,
+            "matched": 560,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.624408916088903,
+            "roundaboutSegs": 64,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "701",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ερμού-Κανακάρη",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 23,
+          "lengthKm": 6.07,
+          "stats": {
+            "observations": 195,
+            "matched": 195,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.968005409958344,
+            "roundaboutSegs": 3,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Ερμού-Κανακάρη",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 23,
+          "lengthKm": 5.95,
+          "stats": {
+            "observations": 201,
+            "matched": 201,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.272797288879397,
+            "roundaboutSegs": 1,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Ερμού-Κανακάρη",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 28,
+          "lengthKm": 6.26,
+          "stats": {
+            "observations": 297,
+            "matched": 297,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.590342996092665,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "702",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Πάρκινγκ Περιβόλα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 5.76,
+          "stats": {
+            "observations": 238,
+            "matched": 238,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7709400126810998,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "0",
+          "headsign": "Πάρκινγκ Περιβόλα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 41,
+          "lengthKm": 11.26,
+          "stats": {
+            "observations": 567,
+            "matched": 567,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.27590921334736657,
+            "roundaboutSegs": 41,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "0",
+          "headsign": "Πάρκινγκ Περιβόλα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 45,
+          "lengthKm": 11.54,
+          "stats": {
+            "observations": 581,
+            "matched": 581,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.21048220090051542,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Αφετηρία Πάρκινγκ Περιβόλα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 22,
+          "lengthKm": 5.77,
+          "stats": {
+            "observations": 182,
+            "matched": 182,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.70720230802766,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Κόμβος CARREFOUR",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 23,
+          "lengthKm": 6.08,
+          "stats": {
+            "observations": 193,
+            "matched": 193,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.736624382446522,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Πάρκινγκ Περιβόλα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 39,
+          "lengthKm": 11.05,
+          "stats": {
+            "observations": 537,
+            "matched": 537,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7331634396994156,
+            "roundaboutSegs": 44,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Πάρκινγκ Περιβόλα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 19,
+          "lengthKm": 5.72,
+          "stats": {
+            "observations": 289,
+            "matched": 289,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2015781454653354,
+            "roundaboutSegs": 3,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "801",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Εργατικές Κατοικίες 1",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 44,
+          "lengthKm": 10.68,
+          "stats": {
+            "observations": 535,
+            "matched": 535,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7463966119861137,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "0",
+          "headsign": "Εργατικές Κατοικίες 1",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 48,
+          "lengthKm": 11.95,
+          "stats": {
+            "observations": 599,
+            "matched": 599,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6772247769933091,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Εργατικές Κατοικίες 3",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 50,
+          "lengthKm": 13.07,
+          "stats": {
+            "observations": 605,
+            "matched": 605,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.277352437220315,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "803",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Καλλιθέα - Τέρμα",
+          "headsign": "Καλλιθέα - Τέρμα",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 44,
+          "lengthKm": 12.9,
+          "stats": {
+            "observations": 646,
+            "matched": 646,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7148966803562925,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "804",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Αγ. Διονύσιος - Επίκεντρο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 50,
+          "lengthKm": 12.05,
+          "stats": {
+            "observations": 604,
+            "matched": 604,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6914586790346005,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "0",
+          "headsign": "Αγ. Διονύσιος - Επίκεντρο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 57,
+          "lengthKm": 14.35,
+          "stats": {
+            "observations": 720,
+            "matched": 720,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.644237132704644,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "0",
+          "headsign": "Αγ. Διονύσιος - Επίκεντρο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 59,
+          "lengthKm": 16.06,
+          "stats": {
+            "observations": 806,
+            "matched": 806,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8370626982842627,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "0",
+          "headsign": "Αγ. Διονύσιος - Επίκεντρο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 49,
+          "lengthKm": 12.8,
+          "stats": {
+            "observations": 642,
+            "matched": 642,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.027643862035267,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Αγ. Διονύσιος - Επίκεντρο",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 43,
+          "lengthKm": 10.22,
+          "stats": {
+            "observations": 512,
+            "matched": 512,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0086394887204815,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "901",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Πανεπιστημιακό Νοσοκομείο Πατρών",
+          "headsign": "Πανεπιστημιακό Νοσοκομείο Πατρών",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 24,
+          "lengthKm": 8.67,
+          "stats": {
+            "observations": 381,
+            "matched": 381,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.3359407012243992,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "902",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Αφετηρία Οθ. Αμαλίας & Καρολου",
+          "headsign": "Αφετηρία Οθ. Αμαλίας & Καρολου",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 29,
+          "lengthKm": 10.85,
+          "stats": {
+            "observations": 544,
+            "matched": 544,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.3209532140869217,
+            "roundaboutSegs": 64,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    }
+  ]
+}
