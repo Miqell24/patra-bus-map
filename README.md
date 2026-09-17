@@ -6,10 +6,10 @@ drawn exactly along the streets it takes (own HMM/Viterbi map matching on the
 OSM road graph), line numbers written parallel to every street they use,
 labeled stops and terminus boxes.
 
-**Live map:** https://miqell24.github.io/patra-bus-map/
+**Live map:** https://agcghub.github.io/patra-bus-map/
 
-A sibling of [volos-bus-map](https://github.com/Miqell24/volos-bus-map) and
-[larisa-bus-map](https://github.com/Miqell24/larisa-bus-map): the same
+A sibling of [volos-bus-map](https://github.com/AGCGHub/volos-bus-map) and
+[larisa-bus-map](https://github.com/AGCGHub/larisa-bus-map): the same
 pipeline, the same data platform.
 
 ## The feed

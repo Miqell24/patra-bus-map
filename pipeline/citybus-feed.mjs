@@ -40,7 +40,7 @@ const AGENCY_URL = 'https://www.astikopatras.gr';
 
 const t0 = Date.now();
 const log = (m) => console.log(`[feed ${((Date.now() - t0) / 1000).toFixed(1)}s] ${m}`);
-const UA = 'Mozilla/5.0 (transit-maps family; contact via github.com/Miqell24)';
+const UA = 'Mozilla/5.0 (transit-maps family; contact via github.com/AGCGHub)';
 
 async function getText(url) {
   for (let attempt = 1; attempt <= 4; attempt++) {
